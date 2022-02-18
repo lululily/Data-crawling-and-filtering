@@ -1,23 +1,17 @@
-# Data-crawling-and-filtering
-## 所需库
+# HW06 Data crawling and filtering
+## necessary library
+
 pip install umap-learn   
 pip install opencv-python   
 pip install matplotlib  
 pytorch   
-
-
   
-## 数据加载
+## load data
 修改相应文件的root_dir和file_suffix参数
 
 
-## 运行   
-运行初级数据筛选：
-```
+## basic filter   
 python img_primary_filter.py
-```   
-   
-运行高级数据筛选：
-```
+
+## advanced filter
 python img_advanced_filter.py
-```   
