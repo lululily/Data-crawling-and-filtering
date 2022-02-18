@@ -7,8 +7,7 @@ pip install matplotlib
 pytorch   
   
 ## load data
-修改相应文件的root_dir和file_suffix参数
-
+update parameters of root_dir and file_suffix
 
 ## basic filter   
 python img_primary_filter.py
